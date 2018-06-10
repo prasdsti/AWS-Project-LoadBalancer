@@ -3,7 +3,7 @@ AWS Project LoadBalancer: Create a VPC with 1 public and 1 private subnets in 2 
 
 # Building Network schematic: 
 <p align="center">
-<img src="https:https://github.com/prasdsti/AWS-Project-LoadBalancer/blob/master/AWS_Project_LoadBalancer_Network.jpg" alt="LoadBalancer">
+<img src="https:https://github.com/prasdsti/AWS-Project-LoadBalancer/blob/master/AWS_Project_LoadBalancer_Network.jpg?raw=true" alt="LoadBalancer">
 </p>
 
 # How to build it: https://github.com/prasdsti/AWS-Project-LoadBalancer/blob/master/AWS_Project_LoadBalancer_ReadMe.txt
